@@ -11,7 +11,7 @@ cd terminal-profile
 ./install_powerline.sh
 ./install_terminal.sh
 ```
-![image](https://github.com/ivanjrt/Terminals-Prompts/assets/44326428/b30aba60-6076-4dc6-8a98-c6052dcba1f1) <br/
+![image](https://github.com/ivanjrt/Terminals-Prompts/assets/44326428/b30aba60-6076-4dc6-8a98-c6052dcba1f1) <br/>
 Select `y`
 
 ```
